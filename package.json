@@ -2,7 +2,7 @@
   "name": "val-confeccoes-backend",
   "version": "1.0.0",
   "description": "o projeto de loja virtual",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
